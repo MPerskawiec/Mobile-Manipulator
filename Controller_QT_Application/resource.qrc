@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/led">
+        <file>img/stop.png</file>
+        <file>img/RED.PNG</file>
+        <file>img/manipulator.png</file>
+        <file>img/GREEN.PNG</file>
+        <file>img/bateria.png</file>
+        <file>img/bateria_red.png</file>
+        <file>img/speed.png</file>
+    </qresource>
+</RCC>
