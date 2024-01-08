@@ -22,5 +22,5 @@ To control the manipulator, there are three methods:
 ![7](https://github.com/MPerskawiec/Mobile-Manipulator/assets/96746401/8359e88b-3f8d-4bc0-9104-94733bf85c60)
 
 
-[Sprawozdanie_Mariusz_Perskawiec.pdf](https://github.com/MPerskawiec/Mobile-Manipulator/files/13862751/Sprawozdanie_Mariusz_Perskawiec.pdf)
+
 
