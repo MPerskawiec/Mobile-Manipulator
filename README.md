@@ -1,6 +1,6 @@
 # Mobile-Manipulator
 The goal of the project was to build a manipulator with four degrees of freedom. Two development boards, STM32L476VGT-DISCO and STM32F103RBT-NUCLEO, were utilized for the system. The construction was made of aluminum, and the actuators consisted of 55-gram model servos MG996r. 
-In order to visualize and control the manipulator, an application was created using the Qt libraries.
+In order to visualize and control the manipulator, an application was created using the Qt libraries. 
 
 The system is powered by a 2S Li-Po battery. To reduce the voltage to logic levels for the microcontrollers, LM7805 stabilizers were used. The servo mechanisms are powered by a step-down converter.
 
